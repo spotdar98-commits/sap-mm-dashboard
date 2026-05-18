@@ -26,9 +26,9 @@ const T = {
   bg: "#f7f7f8",
   surface: "#f9f8f8",
   card: "#fbfafa",
-  cardHov: "#2567aa",
+  cardHov: "#80aedb",
   border: "#CBD5E1",
-  borderAct: "#2563EB",
+  borderAct: "#677aa2",
 
   cyan: "#0284C7",
   blue: "#2563EB",
