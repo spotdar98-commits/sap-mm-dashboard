@@ -28,7 +28,7 @@ const T = {
   card: "#fbfafa",
   cardHov: "#80aedb",
   border: "#CBD5E1",
-  borderAct: "#677aa2",
+  borderAct: "#c6d2eb",
 
   cyan: "#0284C7",
   blue: "#2563EB",
